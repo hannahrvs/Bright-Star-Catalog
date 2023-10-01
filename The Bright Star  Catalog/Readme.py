@@ -70,6 +70,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# cd /Users/hannahsepnio/Desktop/DataVis/HW4
-# python Readme.py < bsc5.dat > bsc5.csv
